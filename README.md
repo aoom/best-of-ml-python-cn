@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Best-of Machine Learning with Python
+    Python 最赞👍的机器学习项目
     <br>
 </h1>
 
@@ -17,8 +17,7 @@
     <a href="https://twitter.com/mltooling" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/mltooling.svg?style=social&label=Follow"></a>
 </p>
 
-This curated list contains 920 awesome open-source projects with a total of 3.3M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/ml-tooling/best-of-ml-python/issues/new/choose), submit a [pull request](https://github.com/ml-tooling/best-of-ml-python/pulls), or directly edit the [projects.yaml](https://github.com/ml-tooling/best-of-ml-python/edit/main/projects.yaml). Contributions are very welcome!
-
+这精美的列表包含了920个很棒的开源项目，总共有3300颗星，分为34个类别。所有的项目都是通过项目质量得分来排名，分数是根据从GitHub和不同的软件包管理器中自动收集的各种指标来计算的。如果你想添加或更新项目，请随时打开一个[issue](https://github.com/ml-tooling/best-of-ml-python/issues/new/choose)，提交一个[pull request](https://github.com/ml-tooling/best-of-ml-python/pulls)，或者直接编辑[projects.yaml](https://github.com/ml-tooling/best-of-ml-python/edit/main/projects.yaml)。非常欢迎你的贡献!
 ---
 
 <p align="center">
